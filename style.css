@@ -1,0 +1,42 @@
+body {
+  color: pink;
+  text-align: center;
+  background-color: black;
+}
+
+.container,
+.explanation {
+  border: 5px solid #ccc;
+  border-top-left-radius: 3em 7em;
+  border-top-right-radius: 4em 4em;
+  border-bottom-right-radius: 5em 5em;
+  border-bottom-left-radius: 5em 5em;
+  color: pink;
+  padding: 15px;
+  margin: 20px;
+  box-shadow: 10px 10px;
+}
+
+button {
+  background-color: pink;
+  border: none;
+  font-color: white;
+  padding: 7px 32px;
+  border-top-left-radius: 3em 7em;
+  border-top-right-radius: 4em 4em;
+  border-bottom-right-radius: 4em 4em;
+  border-bottom-left-radius: 4em 4em;
+}
+
+* {
+  font-size: 1.1em;
+  font-weight: 900;
+}
+h2 {
+  font-family: "Anton", sans-serif;
+  font-size: 2em;
+}
+
+.paragraph-2 {
+  padding: 20px;
+}
